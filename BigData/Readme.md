@@ -17,4 +17,13 @@
  **Ingestão:** Será realizada pelo Airflow via API, mandando um JSON.<br />
  
 **3) Definição da arquitetura:**<br />
-    - Armazenamento: Blob Storage.
+    - Armazenamento: Blob Storage para armazenamento dos dados brutos que recebemos em formato JSON/Imagem, pois é apenas para dados não estruturados <br />
+ 
+**4) Camada de Processamento:**<br />
+    - Azure HDInsight: Cluster que utiliza como motor ferramentas o Hive e o Spark, proporcionando um processamento tanto para batch quanto para streaming na cloud.
+ 
+**5) Camada de Exploração:**<br />
+    - Databricks: Ferramenta que permite a exploração dos dados, com a possibilidade de utilizar linguagens como Python, Scala, SQL, R, Java, etc. <br />
+ 
+**6) Camada de Disponibilização:**<br />
+    - Cosmos DB via API: Armazena os dados já processados e disponibiliza via API para o usuário final. 
