@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/jardelMoraes/labdata-exercices/blob/main/BigData/Fluxo%20de%20dados.png" alt"Proffy" title="Proffy" alt"Proffy" title="Proffy" />
+  <img src="https://github.com/jardelMoraes/labdata-exercices/blob/main/BigData/Fuxo%20de%20dados%20-%202.png" alt"Proffy" title="Proffy" alt"Proffy" title="Proffy" />
   </div>
 
 **1) Definição do problema:** <br />
