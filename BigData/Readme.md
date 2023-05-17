@@ -27,5 +27,6 @@
  
 **6) Camada de Disponibilização:**<br />
     - Cosmos DB via API: Armazena os dados já processados e disponibiliza via API para o usuário final.<br />
+    
 **7) Camada de Visualização:**<br />
     - Power BI: Ferramenta de visualização de dados que permite a criação de dashboards e relatórios.
