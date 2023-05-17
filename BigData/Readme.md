@@ -26,4 +26,6 @@
     - Databricks: Ferramenta que permite a exploração dos dados, com a possibilidade de utilizar linguagens como Python, Scala, SQL, R, Java, etc. <br />
  
 **6) Camada de Disponibilização:**<br />
-    - Cosmos DB via API: Armazena os dados já processados e disponibiliza via API para o usuário final. 
+    - Cosmos DB via API: Armazena os dados já processados e disponibiliza via API para o usuário final.<br />
+**7) Camada de Visualização:**<br />
+    - Power BI: Ferramenta de visualização de dados que permite a criação de dashboards e relatórios.
